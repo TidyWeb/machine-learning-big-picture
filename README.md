@@ -1,6 +1,6 @@
 # Machine learning: the big picture
 
-## [🌐 Open the live site: https://tidyweb.github.io/machine-learning-big-picture/ ↗](https://tidyweb.github.io/machine-learning-big-picture/)
+### [Visit the live site ↗](https://tidyweb.github.io/machine-learning-big-picture/)
 
 
 A standalone, visual overview of machine-learning ideas and workflows, from examples, features and labels through supervised models, evaluation, neural networks and clustering.
